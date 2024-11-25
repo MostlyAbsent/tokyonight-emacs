@@ -65,7 +65,7 @@
 			:foreground tokyonight-storm-fg))))
    `(success ((t (:foreground ,tokyonight-storm-green :weight bold))))
    `(warning ((t (:foreground ,tokyonight-storm-orange :weight bold))))
-   `(tooltip ((t (:foreground ,tokyonight-storm-fg :background ,tokyo-fg))))
+   `(tooltip ((t (:foreground ,tokyonight-storm-fg :background ,tokyonight-storm-fg))))
      
    ;; Calendar
    `(holiday-face ((t (:foreground ,tokyonight-storm-red-1))))
