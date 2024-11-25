@@ -4,7 +4,7 @@
 
 ;;; Code:
 (deftheme tokyonight-moon
-  "Based on folke's tokyonight-moon-storm, through rawley for the emacs flavoring")
+  "Based on folke's tokyonight-moon, through rawley for the emacs flavoring")
 (let ((tokyonight-moon-bg "#222436")
       (tokyonight-moon-bg-dark "#1e2030")
       (tokyonight-moon-bg-hl "#2f334d")
